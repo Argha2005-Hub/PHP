@@ -1,0 +1,9 @@
+a=10
+print("a=",a)
+print("typeof a =",type(a))
+b=100.56
+print("b=",b)
+print("typeof b =",type(b))
+c="sage"
+print("c=",c)
+print("typeof c =",type(c))
